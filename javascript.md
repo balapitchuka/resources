@@ -9,6 +9,7 @@
 
 <a name="ajax"></a>
 ## HTTP Request in Javascript
+   Making HTTP calls from the client-side wasn’t that easy a decade ago. A front-end developer would have to rely on XMLHttpRequest  which was hard to use and implement. The modern libraries and HTTP clients make the front-end features like user interactions, animations, asynchronous file uploads, etc., easier. 
   
   1. **AJAX** is a set of web development techniques used by client-side frameworks and libraries to make asynchronous HTTP calls to the server.
   2. **JQuery**.
