@@ -7,7 +7,7 @@
 
 
 
-<a name="ajax></a>
+<a name="ajax"></a>
 ## HTTP Request in Javascript
   
   1. **AJAX** is a set of web development techniques used by client-side frameworks and libraries to make asynchronous HTTP calls to the server.
